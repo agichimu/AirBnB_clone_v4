@@ -1,7 +1,6 @@
 # AirBnB Clone v3
 
 ## Authors
-- [Brian Mokua](https://github.com/Brianoyaro)
 - [Alexander Gichimu](https://github.com/agichimu)
 
 ## Introduction
